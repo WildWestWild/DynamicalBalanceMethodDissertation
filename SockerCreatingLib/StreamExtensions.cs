@@ -2,31 +2,11 @@
 using System.IO;
 using System.Net.Sockets;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace SocketCreatingLib
 {
     public static class StreamExtensions
     {
-        public static Task<string> GetStringByStreamAsync(this Stream stream)
-        {
-            try
-            {
-                Task<string> result;
-                using (StreamReader reader = new StreamReader(stream))
-                {
-                    result = reader.ReadToEndAsync();
-                }
-
-                return result;
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e);
-                throw new Exception("Problem with reading stream!");
-            }
-        }
-        
         public static string GetStringByStream(this Stream stream)
         {
             try
