@@ -1,0 +1,18 @@
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/SockerCreatingLib/bin/Debug/netcoreapp3.1/SockerCreatingLib.deps.json
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/SockerCreatingLib/bin/Debug/netcoreapp3.1/SockerCreatingLib.dll
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/SockerCreatingLib/bin/Debug/netcoreapp3.1/SockerCreatingLib.pdb
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/SockerCreatingLib/obj/Debug/netcoreapp3.1/SockerCreatingLib.csprojAssemblyReference.cache
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/SockerCreatingLib/obj/Debug/netcoreapp3.1/SockerCreatingLib.AssemblyInfoInputs.cache
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/SockerCreatingLib/obj/Debug/netcoreapp3.1/SockerCreatingLib.AssemblyInfo.cs
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/SockerCreatingLib/obj/Debug/netcoreapp3.1/SockerCreatingLib.csproj.CoreCompileInputs.cache
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/SockerCreatingLib/obj/Debug/netcoreapp3.1/SockerCreatingLib.dll
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/SockerCreatingLib/obj/Debug/netcoreapp3.1/SockerCreatingLib.pdb
+C:\GitReps\BalancerProject\ExecuteServerSideApp\SockerCreatingLib\bin\Debug\netcoreapp3.1\SockerCreatingLib.deps.json
+C:\GitReps\BalancerProject\ExecuteServerSideApp\SockerCreatingLib\bin\Debug\netcoreapp3.1\SockerCreatingLib.dll
+C:\GitReps\BalancerProject\ExecuteServerSideApp\SockerCreatingLib\bin\Debug\netcoreapp3.1\SockerCreatingLib.pdb
+C:\GitReps\BalancerProject\ExecuteServerSideApp\SockerCreatingLib\obj\Debug\netcoreapp3.1\SockerCreatingLib.csprojAssemblyReference.cache
+C:\GitReps\BalancerProject\ExecuteServerSideApp\SockerCreatingLib\obj\Debug\netcoreapp3.1\SockerCreatingLib.AssemblyInfoInputs.cache
+C:\GitReps\BalancerProject\ExecuteServerSideApp\SockerCreatingLib\obj\Debug\netcoreapp3.1\SockerCreatingLib.AssemblyInfo.cs
+C:\GitReps\BalancerProject\ExecuteServerSideApp\SockerCreatingLib\obj\Debug\netcoreapp3.1\SockerCreatingLib.csproj.CoreCompileInputs.cache
+C:\GitReps\BalancerProject\ExecuteServerSideApp\SockerCreatingLib\obj\Debug\netcoreapp3.1\SockerCreatingLib.dll
+C:\GitReps\BalancerProject\ExecuteServerSideApp\SockerCreatingLib\obj\Debug\netcoreapp3.1\SockerCreatingLib.pdb

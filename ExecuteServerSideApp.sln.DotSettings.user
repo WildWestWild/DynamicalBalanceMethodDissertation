@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CGitReps_005CBalancerProject_005CSockerCreatingLibLocal_005CSockerCreatingLibLocal_005Cbin_005CDebug_005Cnetcoreapp3_002E1_005CSockerCreatingLibLocal_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CGitReps_005CBalancerProject_005CSocketCreatingLib_005CSocketCreatingLib_002Esln/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProjectsFromGitHub_005CBalancerProject_005CSockerCreatingLibLocal_005CSockerCreatingLibLocal_005Cbin_005CDebug_005Cnetcoreapp3_002E1_005CSockerCreatingLibLocal_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005C_041C_0410_041A_0421_0418_041C_005CBalancerProject_005CSocketCreatingLib_005CSocketCreatingLib_002Esln/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005C_041C_0410_041A_0421_0418_041C_005CBalancerProject_005CSocketCreatingLib_005CSocketCreatingLib_005Cbin_005CDebug_005Cnetcoreapp3_002E1_005CSocketCreatingLib_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005C_041C_0410_041A_0421_0418_041C_005CBalancerProject_005CSocketCreatingLib_005CSocketCreatingLib_005Cobj_005CDebug_005Cnetcoreapp3_002E1_005CSocketCreatingLib_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\МАКСИМ\BalancerProject\SocketCreatingLib\SocketCreatingLib\obj\Debug\netcoreapp3.1\SocketCreatingLib.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Максим\.nuget\packages\fusioncharts.visualization\1.0.9\lib\netstandard2.0\FusionCharts.DataEngine.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\bin\Debug\netcoreapp3.1\SockerCreatingLibLocal.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>

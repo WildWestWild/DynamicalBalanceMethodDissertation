@@ -1,0 +1,30 @@
+﻿@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model WebApplication.Pages.Index
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <script src="//cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script>
+    <script src="//cdn.fusioncharts.com/fusioncharts/latest/themes/fusioncharts.theme.fusion.js"></script>
+    <title>ColumnChart</title>
+</head>
+
+<body>
+<form method="post">
+   <div style="text-align: center;">
+       <h2> Результаты метода динамической балансировки на основе анализа трафика сети </h2>
+       <div>@Html.Raw(Model.ChartJson)</div>
+       <hr/>
+       <div>@Html.Raw(Model.CombinationChart)</div>
+       <br/>
+   </div> 
+</form>
+</body>
+</html>

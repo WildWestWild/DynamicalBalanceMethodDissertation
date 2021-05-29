@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteServerSideApp", "ExecuteServerSideApp\ExecuteServerSideApp.csproj", "{D23C528A-225A-48D8-B8CD-43373AA730B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplication\WebApplication.csproj", "{6B6FB730-C4E8-4DC9-82F6-AFC3B3609E5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockerCreatingLib", "SockerCreatingLib\SockerCreatingLib.csproj", "{DC39330D-C00F-46D1-8693-745999A2BA6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23C528A-225A-48D8-B8CD-43373AA730B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23C528A-225A-48D8-B8CD-43373AA730B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23C528A-225A-48D8-B8CD-43373AA730B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23C528A-225A-48D8-B8CD-43373AA730B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B6FB730-C4E8-4DC9-82F6-AFC3B3609E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6FB730-C4E8-4DC9-82F6-AFC3B3609E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6FB730-C4E8-4DC9-82F6-AFC3B3609E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6FB730-C4E8-4DC9-82F6-AFC3B3609E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC39330D-C00F-46D1-8693-745999A2BA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC39330D-C00F-46D1-8693-745999A2BA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC39330D-C00F-46D1-8693-745999A2BA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC39330D-C00F-46D1-8693-745999A2BA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

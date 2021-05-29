@@ -1,0 +1,51 @@
+C:/ProjectsFromGitHub/BalancerProject/ExecuteServerSideApp/ExecuteServerSideApp/obj/Debug/netcoreapp3.1/ExecuteServerSideApp.csprojAssemblyReference.cache
+C:/ProjectsFromGitHub/BalancerProject/ExecuteServerSideApp/ExecuteServerSideApp/obj/Debug/netcoreapp3.1/ExecuteServerSideApp.AssemblyInfoInputs.cache
+C:/ProjectsFromGitHub/BalancerProject/ExecuteServerSideApp/ExecuteServerSideApp/obj/Debug/netcoreapp3.1/ExecuteServerSideApp.AssemblyInfo.cs
+C:/ProjectsFromGitHub/BalancerProject/ExecuteServerSideApp/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/ExecuteServerSideApp.exe
+C:/ProjectsFromGitHub/BalancerProject/ExecuteServerSideApp/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/ExecuteServerSideApp.deps.json
+C:/ProjectsFromGitHub/BalancerProject/ExecuteServerSideApp/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/ExecuteServerSideApp.runtimeconfig.json
+C:/ProjectsFromGitHub/BalancerProject/ExecuteServerSideApp/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/ExecuteServerSideApp.runtimeconfig.dev.json
+C:/ProjectsFromGitHub/BalancerProject/ExecuteServerSideApp/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/ExecuteServerSideApp.dll
+C:/ProjectsFromGitHub/BalancerProject/ExecuteServerSideApp/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/ExecuteServerSideApp.pdb
+C:/ProjectsFromGitHub/BalancerProject/ExecuteServerSideApp/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/ProjectsFromGitHub/BalancerProject/ExecuteServerSideApp/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/SockerCreatingLibLocal.dll
+C:/ProjectsFromGitHub/BalancerProject/ExecuteServerSideApp/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/SockerCreatingLibLocal.pdb
+C:/ProjectsFromGitHub/BalancerProject/ExecuteServerSideApp/ExecuteServerSideApp/obj/Debug/netcoreapp3.1/ExecuteServerSideApp.csproj.CopyComplete
+C:/ProjectsFromGitHub/BalancerProject/ExecuteServerSideApp/ExecuteServerSideApp/obj/Debug/netcoreapp3.1/ExecuteServerSideApp.dll
+C:/ProjectsFromGitHub/BalancerProject/ExecuteServerSideApp/ExecuteServerSideApp/obj/Debug/netcoreapp3.1/ExecuteServerSideApp.pdb
+C:/ProjectsFromGitHub/BalancerProject/ExecuteServerSideApp/ExecuteServerSideApp/obj/Debug/netcoreapp3.1/ExecuteServerSideApp.csproj.CoreCompileInputs.cache
+C:/ProjectsFromGitHub/BalancerProject/ExecuteServerSideApp/ExecuteServerSideApp/obj/Debug/netcoreapp3.1/ExecuteServerSideApp.genruntimeconfig.cache
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/ExecuteServerSideApp
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/ExecuteServerSideApp.deps.json
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/ExecuteServerSideApp.runtimeconfig.json
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/ExecuteServerSideApp.runtimeconfig.dev.json
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/ExecuteServerSideApp.dll
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/ExecuteServerSideApp.pdb
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/SockerCreatingLib.dll
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/ExecuteServerSideApp/bin/Debug/netcoreapp3.1/SockerCreatingLib.pdb
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/ExecuteServerSideApp/obj/Debug/netcoreapp3.1/ExecuteServerSideApp.csprojAssemblyReference.cache
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/ExecuteServerSideApp/obj/Debug/netcoreapp3.1/ExecuteServerSideApp.AssemblyInfoInputs.cache
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/ExecuteServerSideApp/obj/Debug/netcoreapp3.1/ExecuteServerSideApp.AssemblyInfo.cs
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/ExecuteServerSideApp/obj/Debug/netcoreapp3.1/ExecuteServerSideApp.csproj.CoreCompileInputs.cache
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/ExecuteServerSideApp/obj/Debug/netcoreapp3.1/ExecuteServerSideApp.csproj.CopyComplete
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/ExecuteServerSideApp/obj/Debug/netcoreapp3.1/ExecuteServerSideApp.dll
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/ExecuteServerSideApp/obj/Debug/netcoreapp3.1/ExecuteServerSideApp.pdb
+/home/maxim/Рабочий стол/GitReps/DynamicalBalanceMethod/ExecuteServerSideApp/obj/Debug/netcoreapp3.1/ExecuteServerSideApp.genruntimeconfig.cache
+C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\bin\Debug\netcoreapp3.1\ExecuteServerSideApp.exe
+C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\bin\Debug\netcoreapp3.1\ExecuteServerSideApp.deps.json
+C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\bin\Debug\netcoreapp3.1\ExecuteServerSideApp.runtimeconfig.json
+C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\bin\Debug\netcoreapp3.1\ExecuteServerSideApp.runtimeconfig.dev.json
+C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\bin\Debug\netcoreapp3.1\ExecuteServerSideApp.dll
+C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\bin\Debug\netcoreapp3.1\ExecuteServerSideApp.pdb
+C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\bin\Debug\netcoreapp3.1\SockerCreatingLib.dll
+C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\bin\Debug\netcoreapp3.1\SockerCreatingLib.pdb
+C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\obj\Debug\netcoreapp3.1\ExecuteServerSideApp.csprojAssemblyReference.cache
+C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\obj\Debug\netcoreapp3.1\ExecuteServerSideApp.AssemblyInfoInputs.cache
+C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\obj\Debug\netcoreapp3.1\ExecuteServerSideApp.AssemblyInfo.cs
+C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\obj\Debug\netcoreapp3.1\ExecuteServerSideApp.csproj.CoreCompileInputs.cache
+C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\obj\Debug\netcoreapp3.1\ExecuteServerSideApp.csproj.CopyComplete
+C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\obj\Debug\netcoreapp3.1\ExecuteServerSideApp.dll
+C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\obj\Debug\netcoreapp3.1\ExecuteServerSideApp.pdb
+C:\GitReps\BalancerProject\ExecuteServerSideApp\ExecuteServerSideApp\obj\Debug\netcoreapp3.1\ExecuteServerSideApp.genruntimeconfig.cache
